@@ -40,4 +40,4 @@ Este es un script sencillo en Python para generar contraseñas seguras y aleator
 ```bash
 Enter the quantity of the your desired password: 12
 Do you want upper letters? (y/n) y
-Generated password: a#P9t7&Kq!2R
+Generated password: a#P9t7&Kq!2
